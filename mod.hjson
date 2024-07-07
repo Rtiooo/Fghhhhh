@@ -8,7 +8,7 @@ name: "ayam+"
 author: "Rtiooo"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "example.ayam+"
 
 #the mod description as seen in the mod dialog
 description: "......"
